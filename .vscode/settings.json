@@ -1,0 +1,49 @@
+{
+  // Set the default
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#58b4ff",
+    "activityBar.activeBackground": "#58b4ff",
+    "activityBar.activeBorder": "#df007b",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#df007b",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "titleBar.activeBackground": "#259dff",
+    "titleBar.inactiveBackground": "#259dff99",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveForeground": "#15202b99",
+    "statusBar.background": "#259dff",
+    "statusBarItem.hoverBackground": "#0085f1",
+    "statusBar.foreground": "#15202b"
+  },
+  "peacock.color": "#259dff",
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "smooth"
+}

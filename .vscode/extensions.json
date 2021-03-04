@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "aaron-bond.better-comments",
+      "coenraads.bracket-pair-colorizer",
+      "streetsidesoftware.code-spell-checker",
+      "kamikillerto.vscode-colorize",
+      "johnpapa.vscode-peacock",
+      "dsznajder.es7-react-js-snippets",
+      "visualstudioexptteam.vscodeintellicode",
+      "therealmarv.vscode-theme-dark-atom-dark-green-cursor",
+      "perubin-ch-0507.coder-dark-theme-visual-studio-code",
+      "mikestead.dotenv",
+      "eamodio.gitlens",
+      "file-icons.file-icons",
+      "firefox-devtools.vscode-firefox-debug",
+      "msjsdiag.debugger-for-chrome",
+      "streetsidesoftware.code-spell-checker",
+      "chris-noring.node-snippets"
+    ]
+  }
+  
